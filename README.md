@@ -1,4 +1,4 @@
-	python Ascii_Image_Generator --file "path to image" 
+	python Ascii_Image_Generator.py --file "path to image" 
 
 ARGUMENTS:
    - --file* :  image file
